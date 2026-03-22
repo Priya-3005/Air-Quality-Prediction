@@ -1,6 +1,14 @@
-![IEEE](https://ieeexplore.ieee.org/document/11167242)
 
-# 🌫️ Air Quality Prediction using Machine Learning
+# 🌫️ Air Quality Prediction using Machine Learning 
+
+
+## 📄 Publication
+This project is part of a research work published in **IEEE**.
+
+- **Title:** *Leveraging Hybrid Regression Models for Urban Air Quality Assessment: Development of LIDGE*  
+- **Conference/Journal:** IEEE  
+- **Year:** 2025  
+- 🔗 **Paper Link:** [Read here](https://ieeexplore.ieee.org/abstract/document/11167242)
 
 ## 📌 Overview
 This project focuses on predicting air quality levels using machine learning models trained on real-world environmental data. The goal is to analyze pollution patterns and build predictive models that can estimate air quality indicators based on historical data.
